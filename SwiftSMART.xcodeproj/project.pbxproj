@@ -376,11 +376,11 @@
 			};
 			buildConfigurationList = EE55C2641948906000849670 /* Build configuration list for PBXProject "SwiftSMART" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = EE55C2601948906000849670;
 			packageReferences = (
